@@ -75,18 +75,6 @@ project/
 
 ---
 
-## ⚙️ Installation & Setup
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
-
 ## 🧪 How to Use
 
 1. Upload an image (JPG/PNG)
