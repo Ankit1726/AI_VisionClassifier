@@ -5,15 +5,15 @@ A modern deep learning web application that classifies images into 10 categories
 ---
 
 ## 🚀 Live Demo
-
-🔗 Add your deployed link here
-👉 https://your-app-link.streamlit.app
+👉https://aivisionclassifier-kq53vzcgdtltojswpplcus.streamlit.app
 
 ---
 
 ## 📸 App Preview
 
-![App UI](https://via.placeholder.com/800x400.png?text=Add+Your+App+Screenshot+Here)
+![App UI](img1)
+![App UI](img2)
+![App UI](img3)
 
 ---
 
