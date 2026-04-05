@@ -11,9 +11,9 @@ A modern deep learning web application that classifies images into 10 categories
 
 ## 📸 App Preview
 
-![App UI](img1)
-![App UI](img2)
-![App UI](img3)
+![App UI](img1.png)
+![App UI](img2.png)
+![App UI](img3.png)
 
 ---
 
